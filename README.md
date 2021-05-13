@@ -23,7 +23,7 @@ or, enable to contains spaces between MML tokens.
 $ ./bin/parse 'T60 O3 R16 A16 B-16 O4 D16 F12 A12 O5 F12. C2 C2 R4 D2.'
 ```
 
-![MML parser](https://user-images.githubusercontent.com/4006693/111154752-e7992100-85d6-11eb-8f7e-bd850328dc8b.gif)
+![MML parser](https://user-images.githubusercontent.com/4006693/118037104-624ca580-b3a8-11eb-934b-795522a46651.gif)
 
 ### MML Tokens
 
